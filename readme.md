@@ -10,3 +10,6 @@ A good software documentation should has an **introduction** phase, which is ver
 It should be **searchable** too, but the most important part is it has API documentation  
 The good example is https://serverjs.io/documentation
 We can generate the same doc using [Docusaurus](https://docusaurus.io/), [demo](https://docusaurus.io/docs/playground)
+
+> *Note* 
+> How to write technical doc: https://github.com/kylelobo/The-Documentation-Compendium 
