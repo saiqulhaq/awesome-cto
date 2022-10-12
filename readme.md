@@ -13,11 +13,18 @@ A good CTO has to have a balanced view of people, product, and technology. Overw
 CTO roles: https://oded.substack.com/p/the-7-roles-of-a-cto
 Videos about CTO on [Youtube](https://www.youtube.com/playlist?list=PLB6c42eboSNzzZ4nIRtUmeqFqAC-dfdC5)
 
-# people
+# Use Decision Matrix To Prioritize Your Time
 
-# product 
+![decision matrix](attachments/decision%20matrix.jpeg)
 
-# technology
+[Notion Template](https://saiqulhaq.notion.site/Decision-Matrix-5e5c943609854191a9d1437bc80cc3a4)
+# People
+
+* Culture
+* [Held engineering town hall](people/Held%20engineering%20town%20hall.md)
+# Product 
+
+# Technology
 
 ---
 
