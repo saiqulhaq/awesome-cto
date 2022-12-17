@@ -20,12 +20,21 @@ Videos about CTO on [Youtube](https://www.youtube.com/playlist?list=PLB6c42eboSN
 [Notion Template](https://saiqulhaq.notion.site/Decision-Matrix-5e5c943609854191a9d1437bc80cc3a4)
 # People
 
-* Culture
+## Culture
 * [Held engineering town hall](people/Held%20engineering%20town%20hall.md)
+
+## Career Track/Ladders Framework
+
+* [A framework for Engineering Managers by Jorge Fioranelli](https://github.com/jorgef/engineeringladders)
+* [Engineering Career Track Framework by James Stanier](https://docs.google.com/spreadsheets/d/11W3TujA-Lx7oj79lt3QgjqdwY6aAUTC76RF-vnPfHYI/edit#gid=668888240)
+
 # Product 
 
 # Technology
 
+## Architectures
+* [SOA](technology/SOA.md)
+* [Micro service](technology/micro%20service.md)
 ---
 
 ---
@@ -41,11 +50,6 @@ We can generate the same doc using [Docusaurus](https://docusaurus.io/), [demo](
 > How to write technical doc: https://github.com/kylelobo/The-Documentation-Compendium 
 
 ---
-
-# Engineering Manager
-
-* Framework https://github.com/jorgef/engineeringladders
-
 
 References:
 
